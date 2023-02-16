@@ -9,4 +9,4 @@
 - :alien: Pronouns: He/Him
 - :green_heart: Passion: [openSUSE](https://en.opensuse.org/User:Crameleon)
 
-
+- :information_source: I only use GitHub for contributing to existing projects. My personal work is found on git.com.de, primarily in the [LibertaCasa organization](https://git.com.de/LibertaCasa/), partially in my [private account](https://git.com.de/Georg).

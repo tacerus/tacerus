@@ -1,6 +1,5 @@
 ### Hi! :wave:
 
-- :globe_with_meridians: Website: [georg-pfuetzenreuter.net](https://georg-pfuetzenreuter.net) - requires JavaScript - I am sorry.
 - :key: Public PGP key: [armored](https://georg-pfuetzenreuter.net/plain/public.gpg.txt)
 - :mailbox_with_mail: Contact:
     - E-Mail: [mail \[at\] georg-pfuetzenreuter \[dot\] net](mailto:mail@georg-pfuetzenreuter.net)

@@ -1,6 +1,5 @@
 ### Hi! :wave:
 
-- :key: Public PGP key: [armored](https://georg-pfuetzenreuter.net/plain/public.gpg.txt)
 - :mailbox_with_mail: Contact:
     - E-Mail: [mail \[at\] georg-pfuetzenreuter \[dot\] net](mailto:mail@georg-pfuetzenreuter.net)
     - IRC: [cranberry on LibertaCasa](ircs://irc.casa/cranberry), [acidsys/crameleon on LiberaChat](ircs://irc.libera.chat/acidsys), [acidsys on OFTC](ircs://irc.oftc.net/acidsys)
